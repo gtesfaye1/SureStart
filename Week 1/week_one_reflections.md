@@ -47,4 +47,4 @@ discussions that were had were:
 
 ## Day 5: 02/11/2021 
    
-   - I learned more about CNNs through the jupyter notebook worked on today, code can be found here.
+   - I learned more about CNNs through the jupyter notebook worked on today, code can be found (coming soon).
