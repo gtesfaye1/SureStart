@@ -22,13 +22,17 @@
  
  ## Day 11: 02/18/2021
  
- Improved the accuracy from my CNN model from 98.58% to 98.86%. Code can be found <here>[1] 
+ Improved the accuracy from my CNN model from 98.58% to 98.86%. Code can be found [here][1] 
+ 
+[1]:https://github.com/gtesfaye1/SureStart-ML-Program/tree/master/Week%202/Image%20Classication
  
  
  ## Day 12: 02/19/2021
  
  Learned about image classication more in depth today and modifyed an already built CNN to classify images. Code
- can be found <here>[1]. 
+ can be found [here][2].
+  
+[2]:https://github.com/gtesfaye1/SureStart-ML-Program/tree/master/Week%202/Intro%20to%20CNNs
  
  Since training took a signifcant amount of time, I wasnt able to play around with the parameters as much as would have
  liked. I did notice though, that fewer epochs made the model more accurate as that led to less overfitting.
